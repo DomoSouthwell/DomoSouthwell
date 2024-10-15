@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DomoSouthwell
 - 👀 I’m interested in coding  
-- 🌱 I’m currently learning C#, unity
+- 🌱 I’m currently learning C#, HTLM & CSS
 - 📫 How to reach me: via carrier pidgeon
 - 😄 Pronouns: he/him
 
